@@ -1,0 +1,44 @@
+ACME LIFE INSURANCE
+Policy Document - Term Insurance Plan
+
+Policyholder Name: Rajesh Kumar Iyer
+Date of Birth: 14 March 1982
+PAN Number: ABCPI4521K
+Aadhaar Number: 4321 8834 2210
+Email: rajesh.iyer@acme.test
+Phone: +91-99887-66554
+Policy Number: ACM-TERM-2026-88342
+Sum Assured: INR 1,50,00,000
+Premium: INR 24,500 per annum
+Policy Term: 30 years
+Commencement Date: 01 June 2026
+
+POLICY BENEFITS
+
+This term insurance plan provides comprehensive life coverage for a period of thirty years from the commencement date. In the event of the policyholder's demise during the policy term, the nominee shall receive the full sum assured amount as a lump sum payment. The policy also includes an accidental death benefit rider that doubles the payout in case of death due to an accident.
+
+CRITICAL ILLNESS RIDER
+
+The policy includes coverage for the following critical illnesses:
+- Cancer of specified severity
+- Heart attack of specified severity
+- Kidney failure requiring regular dialysis
+- Major organ transplant
+- Stroke resulting in permanent symptoms
+
+EXCLUSIONS
+
+The following situations are not covered under this policy:
+- Death within the first year due to suicide
+- Death due to participation in hazardous activities like skydiving or racing
+- Death due to war or nuclear contamination
+- Pre-existing conditions not disclosed at the time of application
+
+NOMINEE DETAILS
+
+Primary Nominee: Meera Iyer (Spouse), Aadhaar 8834 2210 4321, Phone +91-97654-32109
+Secondary Nominee: Arjun Iyer (Son), Aadhaar 2210 4321 8834
+
+CLAIM PROCESS
+
+To initiate a claim, the nominee must submit the original policy document, a certified copy of the death certificate, and completed claim forms to the nearest Acme Life Insurance branch. Claims are typically processed within thirty working days of submission of all required documents. For assistance, contact claims@acmelife.test or call 1800-999-8877.

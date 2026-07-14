@@ -1,0 +1,59 @@
+ACME NATIONAL BANK
+Personal Loan Agreement
+
+Loan Agreement Number: ACM-LOAN-2026-55421
+Date of Agreement: 15 June 2026
+
+BORROWER DETAILS
+
+Name: Kavita Rajendra Prasad
+PAN: KVTPP8823R
+Aadhaar: 6677 8899 1122
+Email: kavita.prasad@acme.test
+Phone: +91-99123-44556
+Address: House 12, Sector 22, Noida 201301, Uttar Pradesh
+
+LOAN DETAILS
+
+Loan Amount Sanctioned: INR 8,00,000
+Loan Tenure: 60 months
+Rate of Interest: 11.25% per annum, reducing balance
+Equated Monthly Installment: INR 17,486
+Processing Fee: INR 16,000 plus GST
+First EMI Due Date: 10 July 2026
+Last EMI Due Date: 10 June 2031
+
+REPAYMENT TERMS
+
+The borrower agrees to repay the loan amount in sixty equated monthly installments as specified above. All EMI payments shall be made via auto-debit from the borrower's Acme National Bank savings account bearing number 4521-9988-7766 on or before the tenth day of each calendar month.
+
+In the event of any EMI bounce or delay in payment, a penalty of two percent per month shall be charged on the outstanding EMI amount along with any bounce charges levied by the bank. Continued default beyond ninety days may result in the loan being classified as a non-performing asset and further legal action.
+
+PREPAYMENT CLAUSE
+
+The borrower has the right to prepay the loan in part or full at any point during the loan tenure. Prepayment charges are as follows:
+- Prepayment within first 12 months: 3% of the prepaid amount
+- Prepayment between 13 to 24 months: 2% of the prepaid amount
+- Prepayment after 24 months: Nil charges
+
+SECURITY AND GUARANTEE
+
+This is an unsecured personal loan and does not require any collateral or guarantor. The bank retains the right to initiate recovery proceedings against the borrower's other assets in case of prolonged default.
+
+DEFAULT AND RECOVERY
+
+Default is defined as non-payment of EMI for a continuous period exceeding ninety days. In case of default, the bank reserves the right to:
+- Report the borrower to CIBIL and other credit bureaus
+- Initiate arbitration proceedings under the applicable laws
+- Attach the borrower's other assets and bank accounts as per legal procedure
+- Recover the full outstanding amount along with interest and penalties
+
+DECLARATIONS BY BORROWER
+
+I have read and understood all terms and conditions of this loan agreement. I confirm that all information submitted in the loan application is true and accurate. I authorize Acme National Bank to verify my details with any third party as required for loan processing and monitoring.
+
+Borrower Signature: ___________________
+Date: 15 June 2026
+
+Bank Representative: Officer Nitin Kulkarni, Employee ID ACM-EMP-77321
+Bank Signature: ___________________

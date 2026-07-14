@@ -1,0 +1,40 @@
+GLOBEX WEALTH ADVISORS
+Quarterly Portfolio Review - Q1 2026
+
+Client: Daniel Rothschild
+Client ID: GBX-INV-33902
+Portfolio ID: GBX-PORT-Q1-8821
+Email: daniel.rothschild@globex.test
+Phone: +1-212-555-9987
+Advisor: Rachel Nguyen
+Report Date: 31 March 2026
+
+PORTFOLIO VALUATION
+
+Total Portfolio Value: USD 2,485,000
+Total Invested Amount: USD 2,000,000
+Absolute Returns: USD 485,000
+Percentage Returns: 24.25%
+
+ASSET ALLOCATION
+
+| Asset Class      | Value (USD)  | Allocation % | Target % |
+| US Equity        | 1,242,500    | 50.0%        | 55.0%    |
+| Intl Equity      | 496,000      | 20.0%        | 20.0%    |
+| Fixed Income     | 497,000      | 20.0%        | 15.0%    |
+| Alternatives     | 174,000      | 7.0%         | 5.0%     |
+| Cash             | 75,500       | 3.0%         | 5.0%     |
+
+TOP HOLDINGS
+
+| Holding                        | Shares   | Value (USD)  | Return %    |
+| Apple Inc (AAPL)              | 850      | 218,450      | +19.5%      |
+| Microsoft Corp (MSFT)         | 420      | 195,300      | +22.1%      |
+| Vanguard S&P 500 ETF (VOO)    | 320      | 178,200      | +16.8%      |
+| iShares MSCI Emerging Markets | 3200     | 156,800      | +8.9%       |
+
+NOTES
+
+Portfolio benefited from strong tech sector performance in Q1 2026. Consider trimming Apple and Microsoft exposure to rebalance toward target allocation. Emerging markets exposure underweight relative to advisor recommendation.
+
+Contact Rachel Nguyen at rachel.nguyen@globex.test for advisory calls.

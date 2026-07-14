@@ -1,0 +1,36 @@
+ACME NATIONAL BANK
+Monthly Account Statement
+
+Account Holder: Priya Sharma
+Email: priya.sharma@acme.test
+Phone: +91-98765-43210
+Account Number: 4521-8834-2210
+Client ID: ACM-CLI-88342
+Statement Period: 01 May 2026 to 31 May 2026
+Branch: Bandra West, Mumbai
+
+Opening Balance on 01 May 2026: INR 1,24,580.00
+Closing Balance on 31 May 2026: INR 2,08,145.50
+
+TRANSACTION SUMMARY
+
+| Date       | Description                    | Debit (INR) | Credit (INR) | Balance (INR) |
+| 03-05-2026 | Salary Credit - Acme Corp     |             | 1,45,000.00  | 2,69,580.00   |
+| 07-05-2026 | Rent Payment - HDFC AutoDebit | 42,000.00   |              | 2,27,580.00   |
+| 11-05-2026 | Grocery - BigBasket           | 6,340.00    |              | 2,21,240.00   |
+| 15-05-2026 | UPI Transfer to Rohan Mehta   | 12,000.00   |              | 2,09,240.00   |
+| 19-05-2026 | Electricity Bill - Adani      | 3,845.00    |              | 2,05,395.00   |
+| 22-05-2026 | Dividend Credit - HDFC MF     |             | 8,250.50     | 2,13,645.50   |
+| 28-05-2026 | ATM Withdrawal - Bandra       | 5,500.00    |              | 2,08,145.50   |
+
+ACCOUNT FEATURES ACTIVE ON THIS ACCOUNT:
+- Auto-debit for utility bills
+- Overdraft protection up to INR 50,000
+- Free NEFT and RTGS transfers
+- International debit card enabled
+
+Interest earned this period: INR 412.30 at 3.5% per annum on savings balance.
+Minimum average balance requirement: INR 25,000. Requirement met throughout the period.
+
+For any queries, contact customer care at 1800-123-4567 or email support@acmebank.test.
+This is a system-generated document and does not require a signature.

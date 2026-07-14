@@ -1,0 +1,48 @@
+ACME WEALTH MANAGEMENT
+Quarterly Investment Summary - Q1 2026
+
+Client: Ananya Deshmukh
+Client ID: ACM-INV-77234
+Portfolio ID: PORT-2026-Q1-4432
+Email: ananya.deshmukh@acme.test
+Phone: +91-98123-45678
+Relationship Manager: Vikram Bose
+Report Date: 31 March 2026
+
+PORTFOLIO VALUATION
+
+Total Portfolio Value: INR 42,85,600
+Total Invested Amount: INR 35,00,000
+Absolute Returns: INR 7,85,600
+Percentage Returns: 22.44%
+
+ASSET ALLOCATION
+
+| Asset Class      | Value (INR)  | Allocation % | Target % |
+| Equity - Direct  | 15,42,300    | 36.0%        | 40.0%    |
+| Equity - MF      | 12,85,650    | 30.0%        | 30.0%    |
+| Debt - Bonds     | 8,57,200     | 20.0%        | 15.0%    |
+| Gold ETF         | 4,28,560     | 10.0%        | 10.0%    |
+| Cash             | 1,71,890     | 4.0%         | 5.0%     |
+
+TOP FIVE HOLDINGS
+
+| Holding                        | Quantity | Value (INR)  | Gain/Loss % |
+| HDFC Bank Ltd                  | 450      | 7,42,500     | +18.2%      |
+| Reliance Industries Ltd        | 220      | 5,88,000     | +12.5%      |
+| Nippon Small Cap Fund          | 3200     | 4,25,650     | +34.8%      |
+| Government Bond 7.26% 2033     | 40       | 4,12,000     | +5.4%       |
+| Gold BeES ETF                  | 750      | 4,28,560     | +22.1%      |
+
+RECENT TRANSACTIONS
+
+The portfolio saw a rebalancing exercise on 15 March 2026 where approximately INR 3,00,000 was shifted from cash to equity mutual funds to take advantage of a market correction. A systematic investment plan of INR 25,000 per month continues to run into the Nippon Small Cap Fund.
+
+RECOMMENDATIONS
+
+- Consider rebalancing equity direct holdings closer to the 40% target
+- Debt allocation is currently 5% above target, review after quarterly bond maturity
+- Cash reserves are healthy for near-term liquidity needs
+- Maintain SIP contributions through market volatility
+
+For a detailed advisory call, please contact your relationship manager at vikram.bose@acme.test or +91-99001-22334.

@@ -1,0 +1,68 @@
+ACME NATIONAL BANK
+Know Your Customer (KYC) Verification Document
+
+APPLICANT IDENTITY DETAILS
+
+Full Legal Name: Suresh Balakrishnan Nair
+Father's Name: Balakrishnan Menon Nair
+Date of Birth: 22 August 1978
+Gender: Male
+Nationality: Indian
+Marital Status: Married
+
+GOVERNMENT ISSUED IDENTIFIERS
+
+Aadhaar Number: 5544 3322 1100
+PAN Number: BALSN7789P
+Passport Number: Z8834521
+Voter ID: MHK1234567
+Driving License: MH02-20180012345
+
+CONTACT INFORMATION
+
+Registered Email: suresh.nair@acme.test
+Primary Phone: +91-98888-77776
+Alternate Phone: +91-22-2612-4400
+Emergency Contact: Lakshmi Nair (Spouse) +91-98765-11223
+
+PERMANENT ADDRESS
+
+Flat 402, Sea Breeze Apartments
+Plot 14, Linking Road
+Khar West, Mumbai 400052
+Maharashtra, India
+
+CURRENT ADDRESS
+
+Same as permanent address.
+
+OCCUPATION AND FINANCIAL DETAILS
+
+Occupation: Senior Software Architect
+Employer: Acme Technologies Pvt Ltd
+Employee ID: ACM-EMP-33445
+Annual Income: INR 42,00,000
+Source of Income: Salary and equity dividends
+Bank Account: 4521-8834-9987 (Acme National Bank, Khar Branch)
+
+DOCUMENTS SUBMITTED FOR VERIFICATION
+
+- Self-attested copy of Aadhaar card
+- Self-attested copy of PAN card
+- Utility bill for address proof (Adani Electricity, dated April 2026)
+- Passport size photograph
+- Cancelled cheque for bank verification
+
+DECLARATION
+
+I hereby declare that the information provided in this KYC document is true and accurate to the best of my knowledge. I understand that any false information may lead to rejection of my application and legal action under applicable laws.
+
+Signature: ___________________
+Date: 10 June 2026
+Place: Mumbai
+
+FOR BANK USE ONLY
+KYC Verified By: Officer ID ACM-OFF-12233
+Verification Date: 12 June 2026
+Risk Category: Medium
+CIF Number: CIF-2026-887654

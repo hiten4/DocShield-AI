@@ -1,0 +1,14 @@
+ACME NATIONAL BANK
+Branch Locator - Mumbai Region
+
+MUMBAI BRANCHES
+
+Bandra West Branch - Ground Floor, Sea Rock Plaza, Linking Road, Bandra West, Mumbai 400050. Phone 022-2600-1234. IFSC ACME0001234.
+
+Andheri East Branch - Shop 12, Chakala Business Park, Andheri Kurla Road, Andheri East, Mumbai 400069. Phone 022-2830-5678. IFSC ACME0002345.
+
+Colaba Branch - Vaswani Chambers, PM Road, Fort, Mumbai 400001. Phone 022-2266-7890. IFSC ACME0003456.
+
+All branches operate Monday to Friday from 9:30 AM to 4:00 PM and Saturday from 9:30 AM to 1:00 PM. Sunday and second and fourth Saturdays are closed.
+
+For ATM locations and IMPS enabled branches, visit acmebank.test/branches.

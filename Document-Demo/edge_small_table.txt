@@ -1,0 +1,12 @@
+ACME NATIONAL BANK
+Fixed Deposit Rate Card - June 2026
+
+The following table shows current interest rates for fixed deposits under the special summer scheme. This is a limited-time offer valid through 31 July 2026.
+
+| Tenure    | Rate for General | Rate for Senior |
+| 1 Year    | 6.75%            | 7.25%           |
+| 3 Years   | 7.10%            | 7.60%           |
+
+Minimum deposit amount is INR 10,000. Premature withdrawal attracts a penalty of 1% below the applicable rate for the completed tenure. Interest is compounded quarterly and paid at maturity. TDS applies as per prevailing income tax rules.
+
+For booking a fixed deposit, please visit any Acme National Bank branch or use the mobile banking app.

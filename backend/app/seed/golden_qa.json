@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the refund policy?",
+    "ground_truth": "Refunds are available within 30 days of purchase."
+  },
+  {
+    "question": "How is customer PII handled?",
+    "ground_truth": "PII is masked before storage using Presidio and regex-based recognizers."
+  },
+  {
+    "question": "What are the working hours listed in the contract?",
+    "ground_truth": "Standard working hours are 9am to 5pm Monday to Friday."
+  }
+]

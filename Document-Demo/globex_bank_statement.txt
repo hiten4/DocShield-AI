@@ -1,0 +1,33 @@
+GLOBEX COMMERCIAL BANK
+Monthly Account Statement
+
+Account Holder: Michael O'Sullivan
+Email: michael.osullivan@globex.test
+Phone: +1-415-555-2288
+Account Number: 9911-2233-4455
+Client ID: GBX-CLI-77821
+Statement Period: 01 May 2026 to 31 May 2026
+Branch: San Francisco Downtown
+
+Opening Balance on 01 May 2026: USD 12,450.00
+Closing Balance on 31 May 2026: USD 18,720.55
+
+TRANSACTION SUMMARY
+
+| Date       | Description                    | Debit (USD) | Credit (USD) | Balance (USD) |
+| 02-05-2026 | Payroll Credit - Globex Inc   |             | 8,500.00     | 20,950.00     |
+| 05-05-2026 | Mortgage Payment - Wells Fargo| 3,200.00    |              | 17,750.00     |
+| 10-05-2026 | Whole Foods Market            | 425.60      |              | 17,324.40     |
+| 14-05-2026 | Zelle Transfer to Jane Doe    | 1,000.00    |              | 16,324.40     |
+| 20-05-2026 | PG&E Electric Bill            | 185.45      |              | 16,138.95     |
+| 25-05-2026 | Stock Dividend - VOO ETF      |             | 2,750.60     | 18,889.55     |
+| 30-05-2026 | ATM Withdrawal - Mission SF   | 169.00      |              | 18,720.55     |
+
+ACCOUNT FEATURES ACTIVE ON THIS ACCOUNT:
+- Overdraft coverage up to USD 2,500
+- Free wire transfers domestic
+- Premium debit card with cashback
+- Mobile check deposit enabled
+
+Interest earned this period: USD 22.15 at 1.5% APY on savings balance.
+For queries, contact Globex customer care at 1-800-GLOBEX-1 or email help@globexbank.test.

@@ -1,0 +1,40 @@
+GLOBEX COMMERCIAL BANK
+Home Equity Line of Credit Agreement
+
+Agreement Number: GBX-HELOC-2026-99887
+Date of Agreement: 20 June 2026
+
+BORROWER DETAILS
+
+Name: Jennifer Martinez-Chen
+SSN Last 4: XXXX-XX-4421
+Email: jennifer.mchen@globex.test
+Phone: +1-650-555-7734
+Address: 2847 Elm Street, Palo Alto, CA 94301
+
+LOAN DETAILS
+
+Credit Line Sanctioned: USD 150,000
+Draw Period: 10 years
+Repayment Period: 20 years
+Variable Rate: Prime + 1.5% (currently 9.25% APR)
+Property Collateral: 2847 Elm Street, Palo Alto, CA
+Appraised Value: USD 1,850,000
+Loan-to-Value Ratio: 8.1%
+
+REPAYMENT TERMS
+
+During the ten year draw period, the borrower may make interest-only payments on the outstanding balance. After the draw period concludes, the loan converts to a fully amortizing twenty year repayment schedule. All payments are due on the fifteenth of each month via ACH auto-debit from Globex Commercial Bank checking account 9911-4455-6677.
+
+PREPAYMENT AND FEES
+
+There are no prepayment penalties. The borrower may pay down the outstanding balance at any time without incurring additional fees. Annual maintenance fee is USD 75 waived for accounts with average balance over USD 25,000.
+
+DEFAULT AND FORECLOSURE
+
+Default occurs after ninety days of missed payments. Globex Commercial Bank reserves the right to initiate foreclosure proceedings on the collateral property in accordance with California state law. The borrower will receive at least thirty days notice before any foreclosure action.
+
+Borrower Signature: ___________________
+Date: 20 June 2026
+
+Bank Officer: Sarah Kim, Employee ID GBX-EMP-44521
